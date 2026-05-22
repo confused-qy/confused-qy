@@ -1,54 +1,17 @@
-<h1 align="center">Hi 👋, I'm Qingyu Wang</h1>
+# Hi 👋, I'm Qingyu Wang
 
-<h3 align="center">
-UPenn MSE CGGT '28 | UMich Data Science '26
-</h3>
+- 🌱 I'm currently learning **Rendering pipelines, GPU programming, and Visual computing**
 
-<p align="center">
-Interested in <b>Computer Graphics × Machine Learning × Systems</b>
-</p>
+- 📫 How to reach me **qingyuw@seas.upenn.edu**
 
-<p align="center">
-Currently learning Rendering Pipelines, GPU Programming, and Visual Computing
-</p>
-
-
----
-
-### 🌐 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="mailto:qingyuw@seas.upenn.edu">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/confused-qy">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/qingyu-wang810">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
+<a href="https://github.com/confused-qy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="confused-qy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/qingyu-wang810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qingyu-wang810" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
 
-### ⚒ Languages & Tools
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=confused-qy&" alt="confused-qy" /></p>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,go,js,react,opencv,unity,blender,figma,photoshop"/>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=confused-qy"/>
-
-</p>
