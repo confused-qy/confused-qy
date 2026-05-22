@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Qingyu Wang</h1>
 
-<!--
-**confused-qy/confused-qy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+UPenn MSE CGGT '28 | UMich Data Science '26
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Interested in <b>Computer Graphics × Machine Learning × Systems</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Currently learning Rendering Pipelines, GPU Programming, and Visual Computing
+</p>
+
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+
+<a href="mailto:qingyuw@seas.upenn.edu">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/confused-qy">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/qingyu-wang810">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+### ⚒ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,go,js,react,opencv,unity,blender,figma,photoshop"/>
+
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=confused-qy&show_icons=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=confused-qy"/>
+
+</p>
