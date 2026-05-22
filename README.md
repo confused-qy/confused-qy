@@ -49,8 +49,6 @@ Currently learning Rendering Pipelines, GPU Programming, and Visual Computing
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=confused-qy&show_icons=true"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=confused-qy"/>
 
 </p>
