@@ -1,4 +1,4 @@
-# Hi 👋, I'm Qingyu Wang
+# Hi 👋, I'm Qingyu
 
 UPenn MSE CGGT '28 | UMich Data Science '26  
 
