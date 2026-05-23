@@ -1,4 +1,4 @@
-# Hi 👋, I'm Qingyu
+## Hi (o^^o), I'm Violet
 
 UPenn MSE CGGT '28 | UMich Data Science '26  
 
