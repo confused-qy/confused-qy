@@ -46,8 +46,11 @@ UPenn MSE CGGT '28 | UMich Data Science '26
 
 </p>
 
+
+<!-- 
 ### GitHub Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=confused-qy"/>
 </p>
+-->
