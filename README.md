@@ -18,6 +18,10 @@ UPenn MSE CGGT '28 | UMich Data Science '26
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://violet098.itch.io">
+<img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white"/>
+</a>
+
 </p>
 
 ### Languages & Tools
